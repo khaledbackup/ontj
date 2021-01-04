@@ -1,0 +1,115 @@
+/*--------------------------------------------------------------------- footer ---------------------------------------------------------------------*/
+.ContactHome {
+    background: #d8b00f;
+    padding-top:90px;
+    margin-top: 90px;
+}
+.ContactHome h2 {
+    color: #000;
+    font-size: 40px;
+    font-weight: 500;
+    padding-left: 223px;
+    padding-bottom: 0px;
+}
+.white {
+    color: #fff;
+    font-weight: 500;
+}
+.main_form {
+    padding-top: 30px;
+    padding-left: 223px;
+}
+.formControl {
+    border: #fff solid 2px;
+    border-radius: inherit;
+    margin-bottom: 25px;
+    padding: 15px 20px;
+    font-family: poppins;
+}
+.formControl:focus {
+    box-shadow: inherit;
+    border: #fff solid 2px !important;
+}
+.textarea {
+    font-family: poppins;
+    border: #fff solid 2px;
+    margin-bottom: 25px;
+    padding: 15px 20px;
+    width: 100%;
+    padding-top: 40px;
+}
+.send {
+    font-family: poppins;
+    float: left;
+    margin: 0 auto;
+    display: block;
+    background: #fff;
+    color: #000;
+    max-width: 165px;
+    padding: 13px 0px;
+    width: 100%;
+    font-size: 18px;
+}
+.send:hover {
+    background: #000;
+    color: #fff;
+}
+.ContactHome .img-box {
+    padding-right: 25px;
+}
+.footer_logo {
+    margin-top: 40px;
+    text-align: center;
+    border-bottom: #ddd solid 1px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+ul.lik {
+   text-align: center;
+    margin-top: 10px;
+}
+ul.lik li {
+   display: inline-block;
+}
+ul.lik li a {
+    color: #292323;
+    font-size: 17px;
+    line-height: 27px;
+    padding: 0px 25px;
+    font-weight: 500;
+}
+ul.lik li a:hover {
+    color: #fff;
+}
+ul.lik li.active a {
+   color: #fff;
+}
+
+.footer .img-box figure {
+   margin: 0px;
+}
+.footer .img-box figure img {
+   width: 100%;
+}
+.copyright {
+   background: #fff;
+    margin-top: 90px;
+}
+.copyright p {
+   color: #000;
+    text-align: center;
+    padding: 25px 0px;
+    font-size: 17px;
+}
+.copyright a:hover {
+   color: #d8b00f;
+}
+.owl-dot {
+    background: #15cfe5 !important;
+    width: 25px;
+    height: 25px;
+    margin-bottom: 25px !important;
+    border-radius: 25px;
+    margin: 0px 5px;
+    margin-bottom: 0px;
+}
